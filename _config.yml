@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://aronhillson.github.io
+title: Photoblog
+paginate: 10
